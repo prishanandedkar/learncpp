@@ -1,7 +1,7 @@
 # learncpp
 Repository for practicing c++ programming
 
-Instrunctions
+Instructions
 
 For compiling program, use "g++ <filename.cpp>"
 For running program, use "./a.out"
