@@ -6,6 +6,5 @@ int main ()
 
 cout << "Hello World";
 return 0;
-delay 4000;
 
 }
